@@ -7,7 +7,9 @@ Include the problem statement and Dataset
 To find the defective or not defective capaciter from a given image, the given image is off size 224 X 224.
 
 ### Dataset:
-![alt text](output5.png)
+
+<img width="584" height="264" alt="image" src="https://github.com/user-attachments/assets/25013923-2f2a-447b-b0f9-7fa444e1967f" />
+
 
 ## DESIGN STEPS
 ### STEP 1:
